@@ -37,8 +37,8 @@
       ]
     },
     "/home/onyx/Documents/jpegdegens/contracts/Counter.sol": {
-      "lastModificationDate": 1639678703140,
-      "contentHash": "f1198b34f5ee9d75450369ea760f94fc",
+      "lastModificationDate": 1639680399794,
+      "contentHash": "c753c8da34c0b38d24f7458e7288ef48",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.10",
